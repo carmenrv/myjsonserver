@@ -1,4 +1,5 @@
-[
+{
+  "pokemons": [
     {
       "id": "001",
       "name": "Bulbasaur",
@@ -8,7 +9,7 @@
       "height": {"minimum": "0.61m","maximum": "0.79m"},
       "maxCP": 951,
       "maxHP": 1071
-      },
+    },
     {
       "id": "002",
       "name": "Ivysaur",
@@ -17,8 +18,8 @@
       "weight": {"minimum": "11.38kg","maximum": "14.63kg"},
       "height": {"minimum": "0.88m","maximum": "1.13m"},
       "maxCP": 1483,
-      "maxHP": 1632,
-      },
+      "maxHP": 1632
+    },
     {
       "id": "003",
       "name": "Venusaur",
@@ -27,7 +28,7 @@
       "weight": {"minimum": "87.5kg","maximum": "112.5kg"},
       "height": {"minimum": "1.75m","maximum": "2.25m"},
       "maxCP": 2392,
-      "maxHP": 2580,
+      "maxHP": 2580
     }
   ]
-
+}
