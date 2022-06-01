@@ -1,5 +1,4 @@
-{
-  "pokemons": [
+"pokemons": [
   {
     "id": "001",
     "name": "Bulbasaur",
@@ -31,4 +30,4 @@
     "maxHP": 2580,
   }
 ]
-}
+
